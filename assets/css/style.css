@@ -1,0 +1,23 @@
+body{
+	background-image: url(https://i.redd.it/3n09ufa5fwh31.jpg);
+	text-align: center;
+}
+h1{
+    background: lightblue;
+    padding: 10px;
+    
+}
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red; 
+}
+.option{
+  margin: 15px;
+}
+
+.row{
+    align-content: center;
+    justify-content: center;
+}
